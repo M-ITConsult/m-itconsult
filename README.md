@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-itconsult&label=Profile%20views&color=0e75b6&style=flat" alt="m-itconsult" /> </p>
 
-- 👨‍💻 All of my projects are available at [M-IT Consult](https://mitconsult.gitlab.io/tech/))
+- 👨‍💻 All of my projects are available at [M-IT Consult](https://mitconsult.gitlab.io/tech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
