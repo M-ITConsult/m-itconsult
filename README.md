@@ -14,7 +14,7 @@ HackTheBox**
 
 - 🤝 I'm looking for help with **Everything**
 
-- 📫 How to reach me **mitconsult.gitlab.io/tech/contact**
+- 📫 How to reach me **[https://mitconsult.gitlab.io/tech/projects](https://mitconsult.gitlab.io/tech/contact)**
 
 - 👨‍💻 All of my projects are available at **[https://mitconsult.gitlab.io/tech/projects](https://mitconsult.gitlab.io/tech/projects)**
 
