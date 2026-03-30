@@ -3,11 +3,9 @@
 ### IT Security Specialist | SysAdmin | AI | Cybersecurity
 
 - 🔭 I'm currently working on
-  **- Websites creation - AI Powered - Content creation**
+  **Websites creation | AI Powered | Content creation**
 
-- 🌱 I'm currently learning **AI
-TryHackMe
-HackTheBox**
+- 🌱 I'm currently learning **AI | TryHackMe | HackTheBox**
 
 - 👯 I'm looking to collaborate on **SOC Analyst, Security Engineer, or IT Security Specialist roles where I can leverage my dual expertise in IT operations and cyber security to protect organizational assets.**
 
