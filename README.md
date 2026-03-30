@@ -1,8 +1,9 @@
 # Hi 👋, I'm Jean-Christophe
 
-### IT Security Specialist | SysAdmin | AI
+### IT Security Specialist | SysAdmin | AI | Cybersecurity
 
-- 🔭 I'm currently working on **- Websites creation
+- 🔭 I'm currently working on **
+- Websites creation
 - AI Powered
 - Content creation**
 
