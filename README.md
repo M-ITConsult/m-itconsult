@@ -14,13 +14,13 @@ HackTheBox**
 
 - 🤝 I'm looking for help with **Everything**
 
-- 📫 How to reach me **[https://mitconsult.gitlab.io/tech/projects](https://mitconsult.gitlab.io/tech/contact)**
+- 📫 How to reach me **[Contact](https://mitconsult.gitlab.io/tech/contact)**
 
-- 👨‍💻 All of my projects are available at **[https://mitconsult.gitlab.io/tech/projects](https://mitconsult.gitlab.io/tech/projects)**
+- 👨‍💻 All of my projects are available at **[Projects](https://mitconsult.gitlab.io/tech/projects)**
 
-- 📝 I regularly write articles on **[https://mitconsult.gitlab.io/tech/blog](https://mitconsult.gitlab.io/tech/blog)**
+- 📝 I regularly write articles on **[Blog](https://mitconsult.gitlab.io/tech/blog)**
 
-- 📄 Know about my experiences **[https://mitconsult.gitlab.io/tech/resume](https://mitconsult.gitlab.io/tech/resume)**
+- 📄 Know about my experiences **[Resume](https://mitconsult.gitlab.io/tech/resume)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
