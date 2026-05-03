@@ -13,11 +13,8 @@
 
 - 📫 How to reach me **[Contact](https://mitconsult.odoo.com)**
 
-- 👨‍💻 All of my projects are available at **[Projects](https://mitconsult.gitlab.io/tech/projects)**
+- 📝 I regularly write articles on **[Blog](https://mitconsult.odoo.com/blog/tech-2)**
 
-- 📝 I regularly write articles on **[Blog](https://mitconsult.gitlab.io/tech/blog)**
-
-- 📄 Know about my experiences **[Resume](https://mitconsult.gitlab.io/tech/resume)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
